@@ -7,7 +7,7 @@
 
 - Youtube : https://www.youtube.com/watch?v=rcpNFm_poQs&list=PLviC8AFqAj5A9MHkRIn2fU5Ac2lEdJxNf&index=1
 
-- 
+- Ep 01: Agentic Loops & stop_reason Explained
 
 
 
